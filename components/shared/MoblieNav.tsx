@@ -3,9 +3,6 @@
 import {
   Sheet,
   SheetContent,
-  SheetDescription,
-  SheetHeader,
-  SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
 import { SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
